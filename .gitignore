@@ -8,6 +8,7 @@ env/
 *.sqlite3
 
 .env
+get-docker.sh
 
 staticfiles/
 
@@ -15,3 +16,4 @@ staticfiles/
 
 vscode/
 .docker/
+
